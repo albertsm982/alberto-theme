@@ -1,0 +1,25 @@
+{
+  "name": "alberto-theme",
+  "displayName": "Alberto Theme",
+  "description": "My personal Visual Studio Code theme",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albertsm982/alberto-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alberto Santos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alberto Santos-color-theme.json"
+      }
+    ]
+  }
+}
