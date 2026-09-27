@@ -1,0 +1,10 @@
+{
+  "theme": "Alberto Santos",
+  "active": true,
+  "contrast": 4.5,
+  "colors": ["#292330", "#82AAFF", "#C3E88D"],
+  "owner": {
+    "name": "Alberto",
+    "languages": ["Python", "JavaScript", "TypeScript"]
+  }
+}

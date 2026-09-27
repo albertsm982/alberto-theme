@@ -1,0 +1,23 @@
+:root {
+  --surface: #292330;
+  --text: #a9b0b7;
+  --accent: #82aaff;
+}
+
+.preview {
+  background: var(--surface);
+  color: var(--text);
+  font-family: sans-serif;
+  padding: 1.5rem;
+}
+
+.preview h1,
+.preview button:hover {
+  color: var(--accent);
+}
+
+@media (max-width: 600px) {
+  .preview {
+    padding: 1rem;
+  }
+}
